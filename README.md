@@ -1,5 +1,5 @@
 # P2LDGAN
-- This repository is the code for "Learning to Generate Artistic Character Line Drawing".
+- This repository is the code for "Learning to Generate Artistic Character Line Drawing". [Arxiv](https://arxiv.org/abs/2206.02998)
 - We will make our full code and dataset available once the paper has been accepted.
 
 ## Pre-trained Models
