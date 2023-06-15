@@ -1,5 +1,5 @@
 # P2LDGAN
-- This repository is the code for "Learning to Generate Artistic Character Line Drawing". [Link](https://doi.org/10.1145/3591106.3592216)
+- Official code for the "Learning to Generate Artistic Character Line Drawing"(ICMR2023). [Link](https://doi.org/10.1145/3591106.3592216)
 
 # News!
 - Fortunately this article was accepted by ACM ICMR2023 and the Camera-ready version will be released soon.
