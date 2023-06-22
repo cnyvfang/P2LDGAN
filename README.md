@@ -7,7 +7,7 @@
 
 ## Pre-trained Models and Dataset
 - You can download our pre-trained models which using P2LDGAN with our constructed line-drawing dataset via [Google Drive](https://drive.google.com/file/d/1To4V_Btc3QhCLBWZ0PdSNgC1cbm3isHP/view?usp=sharing).
-- If you would like to use our dataset, you can send me an email indicating your name, organisation, purpose etc. and I will reply with a link to your dataset.
+- If you would like to use our dataset, you can send me an email indicating your name, organisation, purpose etc. and I will reply with a link to you.
 
 ## Sample Results
 (a) Input photo/image; (b) Ground truth; (c) Gatys; (d) CycleGAN; (e) DiscoGAN; (f) UNIT; (g) pix2pix; (h) MUNIT; (i) Our baseline; (j) Our P2LDGAN.
