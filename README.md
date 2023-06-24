@@ -11,7 +11,7 @@
 
 ## Sample Results
 (a) Input photo/image; (b) Ground truth; (c) Gatys; (d) CycleGAN; (e) DiscoGAN; (f) UNIT; (g) pix2pix; (h) MUNIT; (i) Our baseline; (j) Our P2LDGAN.
-<img src = 'imgs/example.jpg'>
+<img src = 'sample/example.jpg'>
 
 ## Cite this paper ❤️
 If you use this work for a paper, please cite:
